@@ -14,6 +14,6 @@ print ('Today\'s date is', dt.now())
 print ('There are ',delta.days, ' days to Christmas')
 
 #print(delta.days)
-#test if this change creates a scan
+#just playing to see if a scan gets triggered
 
 
