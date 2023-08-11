@@ -1,0 +1,6 @@
+projectKey=HibeesScan
+serverUrl=http://localhost:8090
+serverVersion=10.1.0.73491
+dashboardUrl=http://localhost:8090/dashboard?id=HibeesScan
+ceTaskId=AYnlOCKyZ9qAFRegsmvN
+ceTaskUrl=http://localhost:8090/api/ce/task?id=AYnlOCKyZ9qAFRegsmvN
